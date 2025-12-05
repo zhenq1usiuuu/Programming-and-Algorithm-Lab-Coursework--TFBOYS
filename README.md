@@ -11,3 +11,6 @@ And our code:Programming CourseWork.c
 To use the user interface of our project,please put the three input files and a .c file and a exe file in the same folder.Then you can open the exe file directly to use the interface .
 If you want to compile the code ,please use Visual Studio Code(the one we use to execute).  
 Then click "Run"-->"Run without debugging"(or "Run and Debug" directly).
+After using the user interface, you may get two other files:
+1.analysis_report.txt(generated after you choose to load the input file and then choose to output the analyze result)
+2.temp_processed.txt(the one used when loading the comment file,generated after you choose to load the file.)
