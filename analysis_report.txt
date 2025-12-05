@@ -1,0 +1,22 @@
+1. The summary statistics:
+Total words: 1719
+Unique Words: 199
+Lexical diversity: 11.58%
+
+2. Toxic word analysis:
+Toxic words: 30
+Proportion: 1.75%
+
+3. Top Words:
+Top Word 1: you (188)
+Top Word 2: are (141)
+Top Word 3: like (56)
+Top Word 4: stop (52)
+Top Word 5: is (46)
+
+Top Toxic Words:
+Top Toxic Word 1: idiot (5)
+Top Toxic Word 2: asshole (5)
+Top Toxic Word 3: bitch (5)
+Top Toxic Word 4: cunts (5)
+Top Toxic Word 5: dick (5)
